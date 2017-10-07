@@ -25,7 +25,6 @@ svg2 {
 }
 </style>
 <body>
-<h1>PULSO DURANTE TODO EL DIA!!!</h1  >
 <script src="https://d3js.org/d3.v3.js"></script>
 <script>
 
