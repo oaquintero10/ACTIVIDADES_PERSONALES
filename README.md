@@ -1,36 +1,29 @@
-## MEDIDAS SENSORES DE UNA BANDA
+# MEDIDAS SENSORES DE UNA BANDA
 Esto es un ejemplo que hay que modificar para adecuarlo al anáisis
 
-<meta charset="utf-8">
 <style>
 body2 {
   font: 10px sans-serif;
 }
-
 svg2 {
   font: 10px sans-serif;
 }
-
 .axis path,
 .axis line {
   fill: none;
   stroke: #000;
   shape-rendering: crispEdges;
 }
-
 .x.axis path {
   fill:none;
   stroke:#001;
   shape-rendering: crispEdges;
 }
-
 .line {
   fill: none;
   stroke-width: 3px;
 }
-
 </style>
-
 <body>
 <h1>PULSO DURANTE TODO EL DIA!!!</h1  >
 <script src="https://d3js.org/d3.v3.js"></script>
@@ -177,27 +170,10 @@ console.log(data)
 
 </script>
 
-### Markdown
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
 
 - Pulso 1
 - Pulso 2
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oaquintero10/ACTIVIDADES_PERSONALES/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Autor
 
